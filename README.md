@@ -1,3 +1,9 @@
+# 🎥 YouTube Tutorial
+
+Want to understand how this project works step by step?
+
+[Video walkthrough](https://youtu.be/npZSxa5GWbw)
+
 # 🚀 Simple Python MCP + Ollama Demo
 
 A lightweight, beginner-friendly demonstration of the **Model Context Protocol (MCP)** using Python and **Ollama**.
